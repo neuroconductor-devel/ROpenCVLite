@@ -17,3 +17,7 @@ revdep
 ^pkgdown$
 ^codecov\.yml$
 test_install
+^DESCRIPTION\.bak$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
